@@ -50,7 +50,7 @@ TF_ENABLE_ONEDNN_OPTS=1
 ```
 ##
 Intel Distribution for Python*:
-1. The distribution is designed to scale efficiently across multiple CPU cores and threads. This scalability is essential for applications that required high-performance computing.
+1. The distribution is designed to scale efficiently across multiple CPU cores and threads. This scalability is essential for applications that require high-performance computing.
 2. Essential Python bindings for easing integration of Intel native tools with the python project. It seamlessly works with Intel software and libraries.
 3. Intel Distribution for python maintains compatibility with the standard python distribution(cpython). This means that most existing python packages and libraries can be used seamlessly with this distribution.
 
@@ -60,7 +60,7 @@ Intel Distribution for Python*:
 Intel Extension for scikit-learn*:
 1. Intel extension can accelerate scikit-learn algorithms by up to 100x, which can significantly reduce the time it takes to train and deploy machine learning models.
 2. The extension is seamlessly integrated with scikit-learn, so you can continue to use the same API and code.
-3. The intel extension supports multiple devices, including CPUs, GPUs, and FPGAs. This allows you to choose the best device for your specific applicatino and workload.
+3. The intel extension supports multiple devices, including CPUs, GPUs, and FPGAs. This allows you to choose the best device for your specific application and workload.
    
 Add two lines of code to patch all compatible algorithms in your Python script.
 ```
@@ -190,12 +190,6 @@ Without Intel Extension for Tensorflow:
 With using Intel Extension for Tensorflow:
 ![image](https://github.com/nb0309/Network-Traffic-Analysis-using-Machine-learning/assets/93106796/f6c8fe7f-30cd-4412-bf53-8e341ba3a609)
 
-
-
-## Contributors:
-
-- [@navabhaarathi](https://github.com/nb0309)
-- [@balasuriya](https://github.com/balasuriyaranganathan/balasuriyaranganathan)
 
 
 ## Acknowledgements
