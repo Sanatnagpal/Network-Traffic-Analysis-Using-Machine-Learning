@@ -5,7 +5,6 @@ In the ever-evolving landscape of cybersecurity, safeguarding computer networks 
 Anomaly detection is a sophisticated technique used to identify patterns and behaviors that deviate significantly from normal network activity. In computer networks, normal behavior is typically established by observing historical data, which is then used as a benchmark for detecting anomalies. Anomalies can be indicative of security breaches, network failures, or other irregularities that warrant immediate attention.
 
 
-
 ## Data
 Wireshark captures various data when monitoring network traffic:
 ```
